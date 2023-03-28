@@ -17,3 +17,7 @@ I'd like to sow you how typcal css syntax looks like:
     background–color: purple;
   }
   ```
+
+How is it going guys?
+Did you submit your tests?
+
